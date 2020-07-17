@@ -1,0 +1,100 @@
+
+.bg-light{
+    background-color: white;
+}
+.phone h5{
+    text-align: center;
+}
+.phone p{
+    text-align: justify;
+    color: gray;
+}
+.orange-bg li{
+    background-color: orange;
+    padding: 4px;
+    border-radius: 13px;
+}
+.carousel-item .btn{
+    margin-left: 0%;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.btn{
+    margin-left: 32%;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.btn:hover{
+    color: white;
+}
+.see small{
+    color: orange;
+    float: right;
+}
+.smartphone{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.top{
+    margin-top: 40px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text-cat{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.text-cat p::before{
+    content: "";
+    width: 80px;
+    height: 7px;
+    background-color: orange;
+    position: absolute;
+    margin-left: -3%;
+    border-radius: 5px;
+    
+}
+.box{
+    box-shadow: 5px 5px 40px gray;
+    text-align: center;
+    padding: 60px 40px;
+    margin-top: 50%;
+}
+.box h6{
+    margin-top: 30px;
+}
+.box1 h6{
+    margin-top: 30px;
+}
+.box2 h6{
+    margin-top: 30px;
+}
+.Categories{
+    height: 600px;
+}
+.box1{
+    box-shadow: 5px 5px 40px gray;
+    text-align: center;
+    padding: 60px 40px;
+    margin-top: 30px;
+}
+.box2{
+    box-shadow: 5px 5px 40px gray;
+    text-align: center;
+    padding: 60px 40px;
+    margin-top: 30px;
+}
+.play-box img{
+    width: 100%;
+}
+.container footer{
+    margin-top: 200px;
+    text-align: center;
+}
